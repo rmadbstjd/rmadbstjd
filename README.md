@@ -36,8 +36,7 @@
  </br>
  <img src="https://img.shields.io/badge/Next.js-E0234E?style=for-the-badge&logo=nextjs&logoColor=white">
 </br>
-<br/>
-<h2> Contact me</h2>
+
 <h2>🏋 Activity</h2>
 
 
