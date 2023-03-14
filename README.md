@@ -31,9 +31,16 @@
   **Studying**  
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <br/>
+
+ **Interesting in**
+ </br>
+ <img src="https://img.shields.io/badge/Next.js-E0234E?style=for-the-badge&logo=nextjs&logoColor=white">
+</br>
+<br/>
+<h2> Contact me</h2>
 <h2>🏋 Activity</h2>
 
-</br>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmadbstjd&show_icons=true&theme=white)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmadbstjd&langs_count=8)](https://github.com/rmadbstjd/github-readme-stats)
